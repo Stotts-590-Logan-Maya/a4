@@ -25,4 +25,4 @@ simple_program_one() ->
         temp = factorial(Num),
         io:format("~n", [temp]);
    
-end.
+   end.
